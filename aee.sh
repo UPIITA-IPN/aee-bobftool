@@ -1,2 +1,2 @@
 #1/bin/bash
-exp_bin.py de python3
+python3 exp_bin.py
